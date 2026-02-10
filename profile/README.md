@@ -31,11 +31,6 @@ We welcome GKCIET students who are curious about Computer Science—beginners in
 - Event code, workshop materials, slides, and demos
 - Community contributions and open-source experiments
 
-**Suggested repo structure (optional):**
-- `workshops/` — hands-on sessions and notes
-- `projects/` — club-built apps and tools
-- `dsa-cp/` — practice problems, editorials, and solutions
-- `resources/` — curated roadmaps and references
 
 ---
 
@@ -50,13 +45,12 @@ We welcome GKCIET students who are curious about Computer Science—beginners in
 - Keep discussions constructive.
 - When contributing to repositories, follow the repo’s `CONTRIBUTING.md` (if present).
 
-**Code of Conduct:** TODO (add link or create `CODE_OF_CONDUCT.md`)
 
 ---
 
 ## Links
 - GKCIET: TODO (official institute website link)
-- DEBUG CLUB website/page: TODO
+- DEBUG CLUB website/page: https://debug-club-gkciet.github.io/
 - GitHub Organization: [DEBUG-CLUB-GKCIET](https://github.com/DEBUG-CLUB-GKCIET/)
 
 ---
@@ -67,12 +61,3 @@ For collaborations, workshops, or issues with repositories:
 - **Point of contact:** TODO (name + role)
 
 ---
-
-## TODO (Fill these in)
-- Founding year and short club history
-- Official links (institute + club socials)
-- Join process + community channel
-- Faculty advisor(s) and core team list
-- Event schedule and recurring activities
-- Code of conduct / contribution policies
-- Achievements and proof/links (if public)
